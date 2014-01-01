@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Fri, 24 Feb 2006 Generated from KCHR: "Dvorak" -->
-<!--Last edited by Ukelele version 2.2.6 on 2014-01-01 at 03:01 (GMT)-->
+<!--Last edited by Ukelele version 2.2.6 on 2014-01-01 at 04:48 (GMT)-->
 <!--Created by Ukelele version 2.2.6 on 2013-12-31 at 20:32 (GMT)-->
 <keyboard group="0" id="12899" name="Icelandic Dvorak" maxout="1">
     <layouts>
@@ -50,7 +50,7 @@
             <key code="3" action="u"/>
             <key code="4" output="d"/>
             <key code="5" action="i"/>
-            <key code="6" output=";"/>
+            <key code="6" output="&#x0022;"/>
             <key code="7" output="q"/>
             <key code="8" output="j"/>
             <key code="9" output="k"/>
@@ -94,7 +94,7 @@
             <key code="47" output="v"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" action=" "/>
-            <key code="50" output="&#x0022;"/>
+            <key code="50" output="&#x003C;"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -168,15 +168,15 @@
             <key code="3" action="U"/>
             <key code="4" output="D"/>
             <key code="5" action="I"/>
-            <key code="6" output=":"/>
+            <key code="6" output="&#x0027;"/>
             <key code="7" output="Q"/>
             <key code="8" output="J"/>
             <key code="9" output="K"/>
-            <key code="10" output="±"/>
+            <key code="10" action="±"/>
             <key code="11" output="X"/>
             <key code="12" action="komma"/>
-            <key code="13" output="&#x003C;"/>
-            <key code="14" output="&#x003E;"/>
+            <key code="13" output=";"/>
+            <key code="14" output=":"/>
             <key code="15" output="P"/>
             <key code="16" output="F"/>
             <key code="17" action="Y"/>
@@ -186,12 +186,12 @@
             <key code="21" output="$"/>
             <key code="22" output="&#x0026;"/>
             <key code="23" output="%"/>
-            <key code="24" output="?"/>
+            <key code="24" output="_"/>
             <key code="25" output=")"/>
             <key code="26" output="/"/>
-            <key code="27" output="+"/>
+            <key code="27" output="\"/>
             <key code="28" output="("/>
-            <key code="29" output=")"/>
+            <key code="29" output="="/>
             <key code="30" output="Ð"/>
             <key code="31" output="R"/>
             <key code="32" output="G"/>
@@ -212,7 +212,7 @@
             <key code="47" output="V"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" action=" "/>
-            <key code="50" output="~"/>
+            <key code="50" output="&#x003E;"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -290,9 +290,9 @@
             <key code="7" output="Q"/>
             <key code="8" output="J"/>
             <key code="9" output="K"/>
-            <key code="10" output="§"/>
+            <key code="10" action="§"/>
             <key code="11" output="X"/>
-            <key code="12" output="&#x0027;"/>
+            <key code="12" action="&#x0027; 1"/>
             <key code="13" output=","/>
             <key code="14" output="."/>
             <key code="15" output="P"/>
@@ -304,25 +304,25 @@
             <key code="21" output="4"/>
             <key code="22" output="6"/>
             <key code="23" output="5"/>
-            <key code="24" output="]"/>
+            <key code="24" output="-"/>
             <key code="25" output="9"/>
             <key code="26" output="7"/>
-            <key code="27" output="["/>
+            <key code="27" output="="/>
             <key code="28" output="8"/>
             <key code="29" output="0"/>
-            <key code="30" output="="/>
+            <key code="30" output="Ð"/>
             <key code="31" output="R"/>
             <key code="32" output="G"/>
-            <key code="33" output="/"/>
+            <key code="33" output="Ö"/>
             <key code="34" output="C"/>
             <key code="35" output="L"/>
             <key code="36" output="&#x000D;"/>
             <key code="37" action="N"/>
             <key code="38" output="H"/>
-            <key code="39" output="-"/>
+            <key code="39" output="Æ"/>
             <key code="40" output="T"/>
             <key code="41" output="S"/>
-            <key code="42" output="\"/>
+            <key code="42" output="Þ"/>
             <key code="43" output="W"/>
             <key code="44" output="Z"/>
             <key code="45" output="B"/>
@@ -330,7 +330,7 @@
             <key code="47" output="V"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" action=" "/>
-            <key code="50" output="`"/>
+            <key code="50" output="&#x003C;"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -404,7 +404,7 @@
             <key code="3" action="¨ 1"/>
             <key code="4" output="∂"/>
             <key code="5" output="|"/>
-            <key code="6" output="…"/>
+            <key code="6" output="Ω"/>
             <key code="7" output="œ"/>
             <key code="8" output="∆"/>
             <key code="9" output="˚"/>
@@ -435,7 +435,7 @@
             <key code="34" output="ç"/>
             <key code="35" output="¬"/>
             <key code="36" output="&#x000D;"/>
-            <key code="37" output="~"/>
+            <key code="37" output="…"/>
             <key code="38" output="˙"/>
             <key code="39" output="–"/>
             <key code="40" output="†"/>
@@ -522,10 +522,10 @@
             <key code="3" output="¨"/>
             <key code="4" output="Î"/>
             <key code="5" output="ˆ"/>
-            <key code="6" output="Ω"/>
+            <key code="6" output="ω"/>
             <key code="7" output="Œ"/>
             <key code="8" output="Ô"/>
-            <key code="9" output=""/>
+            <key code="9" output=""/>
             <key code="10" output="±"/>
             <key code="11" output="˛"/>
             <key code="12" output="¶"/>
@@ -534,18 +534,18 @@
             <key code="15" output="∏"/>
             <key code="16" output="Ï"/>
             <key code="17" output="•"/>
-            <key code="18" output="⁄"/>
-            <key code="19" output="€"/>
-            <key code="20" output="‹"/>
-            <key code="21" output="›"/>
+            <key code="18" output=""/>
+            <key code="19" output=""/>
+            <key code="20" output="£"/>
+            <key code="21" output="€"/>
             <key code="22" output="⁄"/>
             <key code="23" output="∞"/>
             <key code="24" output="—"/>
-            <key code="25" output="·"/>
+            <key code="25" output="}"/>
             <key code="26" output="÷"/>
-            <key code="27" output="≈"/>
-            <key code="28" output="°"/>
-            <key code="29" output="‚"/>
+            <key code="27" output="≠"/>
+            <key code="28" output="{"/>
+            <key code="29" output="≈"/>
             <key code="30" output="“"/>
             <key code="31" output="‰"/>
             <key code="32" output="˝"/>
@@ -555,7 +555,7 @@
             <key code="36" output="&#x000D;"/>
             <key code="37" output="˜"/>
             <key code="38" output="Ó"/>
-            <key code="39" output="—"/>
+            <key code="39" output="‘"/>
             <key code="40" output="ˇ"/>
             <key code="41" output="∑"/>
             <key code="42" output="»"/>
@@ -566,7 +566,7 @@
             <key code="47" output="◊"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="`"/>
+            <key code="50" output=""/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -684,7 +684,7 @@
             <key code="47" output="√"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
-            <key code="50" output="`"/>
+            <key code="50" output="≤"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -991,114 +991,69 @@
     <actions>
         <action id=" ">
             <when state="none" output=" "/>
-            <when state="s1" output="´"/>
-            <when state="s2" output="¨"/>
-            <when state="s3" output="ˆ"/>
-            <when state="s4" output="˜"/>
-            <when state="s5" output="`"/>
         </action>
         <action id="&#x0027;">
+            <when state="none" next="komma"/>
+        </action>
+        <action id="&#x0027; 1">
             <when state="none" next="komma"/>
         </action>
         <action id="A">
             <when state="none" output="A"/>
             <when state="komma" output="Á"/>
             <when state="komma-reverse" output="À"/>
-            <when state="s1" output="Á"/>
-            <when state="s2" output="Ä"/>
-            <when state="s3" output="Â"/>
-            <when state="s4" output="Ã"/>
-            <when state="s5" output="À"/>
             <when state="umlaut" output="Ä"/>
         </action>
         <action id="E">
             <when state="none" output="E"/>
             <when state="komma" output="É"/>
             <when state="komma-reverse" output="È"/>
-            <when state="s1" output="É"/>
-            <when state="s2" output="Ë"/>
-            <when state="s3" output="Ê"/>
-            <when state="s5" output="È"/>
             <when state="umlaut" output="Ë"/>
         </action>
         <action id="I">
             <when state="none" output="I"/>
             <when state="komma" output="Í"/>
             <when state="komma-reverse" output="Ì"/>
-            <when state="s1" output="Í"/>
-            <when state="s2" output="Ï"/>
-            <when state="s3" output="Î"/>
-            <when state="s5" output="Ì"/>
             <when state="umlaut" output="Ï"/>
         </action>
         <action id="N">
             <when state="none" output="N"/>
-            <when state="s4" output="Ñ"/>
         </action>
         <action id="O">
             <when state="none" output="O"/>
             <when state="komma" output="Ó"/>
             <when state="komma-reverse" output="Ò"/>
-            <when state="s1" output="Ó"/>
-            <when state="s2" output="Ö"/>
-            <when state="s3" output="Ô"/>
-            <when state="s4" output="Õ"/>
-            <when state="s5" output="Ò"/>
             <when state="umlaut" output="Ö"/>
         </action>
         <action id="U">
             <when state="none" output="U"/>
             <when state="komma" output="Ú"/>
             <when state="komma-reverse" output="Ù"/>
-            <when state="s1" output="Ú"/>
-            <when state="s2" output="Ü"/>
-            <when state="s3" output="Û"/>
-            <when state="s5" output="Ù"/>
             <when state="umlaut" output="Ü"/>
         </action>
         <action id="Y">
             <when state="none" output="Y"/>
             <when state="komma" output="Ý"/>
             <when state="komma-reverse" output="Ỳ"/>
-            <when state="s2" output="Ÿ"/>
             <when state="umlaut" output="Ÿ"/>
-        </action>
-        <action id="\">
-            <when state="none" next="komma"/>
-        </action>
-        <action id="`">
-            <when state="none" next="s5"/>
         </action>
         <action id="a">
             <when state="none" output="a"/>
             <when state="komma" output="á"/>
             <when state="komma-reverse" output="à"/>
             <when state="ring" output="å"/>
-            <when state="s1" output="á"/>
-            <when state="s2" output="ä"/>
-            <when state="s3" output="â"/>
-            <when state="s4" output="ã"/>
-            <when state="s5" output="à"/>
             <when state="umlaut" output="ä"/>
         </action>
         <action id="e">
             <when state="none" output="e"/>
             <when state="komma" output="é"/>
             <when state="komma-reverse" output="è"/>
-            <when state="s1" output="é"/>
-            <when state="s2" output="ë"/>
-            <when state="s3" output="ê"/>
-            <when state="s5" output="è"/>
             <when state="umlaut" output="ë"/>
         </action>
         <action id="i">
             <when state="none" output="i"/>
             <when state="komma" output="í"/>
             <when state="komma-reverse" output="ì"/>
-            <when state="s1" output="í"/>
-            <when state="s2" output="ï"/>
-            <when state="s3" output="î"/>
-            <when state="s5" output="ì"/>
             <when state="umlaut" output="ï"/>
         </action>
         <action id="komma">
@@ -1106,17 +1061,11 @@
         </action>
         <action id="n">
             <when state="none" output="n"/>
-            <when state="s4" output="ñ"/>
         </action>
         <action id="o">
             <when state="none" output="o"/>
             <when state="komma" output="ó"/>
             <when state="komma-reverse" output="ò"/>
-            <when state="s1" output="ó"/>
-            <when state="s2" output="ö"/>
-            <when state="s3" output="ô"/>
-            <when state="s4" output="õ"/>
-            <when state="s5" output="ò"/>
             <when state="umlaut" output="ö"/>
         </action>
         <action id="p">
@@ -1126,21 +1075,16 @@
             <when state="none" output="u"/>
             <when state="komma" output="ú"/>
             <when state="komma-reverse" output="ù"/>
-            <when state="s1" output="ú"/>
-            <when state="s2" output="ü"/>
-            <when state="s3" output="û"/>
-            <when state="s5" output="ù"/>
             <when state="umlaut" output="ü"/>
         </action>
         <action id="y">
             <when state="none" output="y"/>
             <when state="komma" output="ý"/>
             <when state="komma-reverse" output="ỳ"/>
-            <when state="s2" output="ÿ"/>
             <when state="umlaut" output="ÿ"/>
         </action>
-        <action id="¨">
-            <when state="none" next="s2"/>
+        <action id="§">
+            <when state="none" next="ring"/>
         </action>
         <action id="¨ 1">
             <when state="none" next="umlaut"/>
@@ -1148,28 +1092,17 @@
         <action id="°">
             <when state="none" next="ring"/>
         </action>
-        <action id="´">
-            <when state="none" next="s1"/>
+        <action id="±">
+            <when state="none" next="umlaut"/>
         </action>
         <action id="æ">
             <when state="none" next="komma-reverse"/>
-        </action>
-        <action id="ˆ">
-            <when state="none" next="s3"/>
-        </action>
-        <action id="˜">
-            <when state="none" next="s4"/>
         </action>
     </actions>
     <terminators>
         <when state="komma" output="´"/>
         <when state="komma-reverse" output="`"/>
         <when state="ring" output="°"/>
-        <when state="s1" output="´"/>
-        <when state="s2" output="¨"/>
-        <when state="s3" output="ˆ"/>
-        <when state="s4" output="˜"/>
-        <when state="s5" output="`"/>
         <when state="umlaut" output="¨"/>
     </terminators>
 </keyboard>
