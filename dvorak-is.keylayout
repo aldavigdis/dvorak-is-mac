@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Fri, 24 Feb 2006 Generated from KCHR: "Dvorak" -->
-<!--Last edited by Ukelele version 2.2.6 on 2014-01-01 at 02:38 (GMT)-->
+<!--Last edited by Ukelele version 2.2.6 on 2014-01-01 at 03:01 (GMT)-->
 <!--Created by Ukelele version 2.2.6 on 2013-12-31 at 20:32 (GMT)-->
 <keyboard group="0" id="12899" name="Icelandic Dvorak" maxout="1">
     <layouts>
@@ -86,7 +86,7 @@
             <key code="39" output="æ"/>
             <key code="40" output="t"/>
             <key code="41" output="s"/>
-            <key code="42" output="+"/>
+            <key code="42" output="þ"/>
             <key code="43" output="w"/>
             <key code="44" output="z"/>
             <key code="45" output="b"/>
@@ -189,7 +189,7 @@
             <key code="24" output="?"/>
             <key code="25" output=")"/>
             <key code="26" output="/"/>
-            <key code="27" output="_"/>
+            <key code="27" output="+"/>
             <key code="28" output="("/>
             <key code="29" output=")"/>
             <key code="30" output="Ð"/>
@@ -204,7 +204,7 @@
             <key code="39" output="Æ"/>
             <key code="40" output="T"/>
             <key code="41" output="S"/>
-            <key code="42" output="&#x0027;"/>
+            <key code="42" output="Þ"/>
             <key code="43" output="W"/>
             <key code="44" output="Z"/>
             <key code="45" output="B"/>
@@ -422,7 +422,7 @@
             <key code="21" output="¢"/>
             <key code="22" output="^"/>
             <key code="23" output="‰"/>
-            <key code="24" output="–"/>
+            <key code="24" output="_"/>
             <key code="25" output="]"/>
             <key code="26" output="{"/>
             <key code="27" output="\"/>
