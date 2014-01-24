@@ -4,6 +4,8 @@ The goal of the project is to create a keyboard layout with the same keys and fu
 
 Please note that this is a work in progress, is being developed on, and has only been tested on a built-in MacBook Pro 2013 keyboard. This layout might change in the future and if you have any requests or comments, please drop the author a line or file a ticket for the Github repository at https://github.com/stefanvignir/dvorak-is-mac.
 
+![Overview of the keyboard in neutral state](https://raw.github.com/stefanvignir/dvorak-is-mac/master/dvorak-is.png)
+
 THE FILES WITHIN THIS REPOSITORY ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR RUINED KEYBOARDS OR ANY OTHER CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE FILES OR THE USE OR OTHER USAGE OF THE FILES.
 
 # Installation
