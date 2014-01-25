@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Fri, 24 Feb 2006 Generated from KCHR: "Dvorak" -->
-<!--Last edited by Ukelele version 2.2.7 on 2014-01-25 at 07:17 (GMT)-->
+<!--Last edited by Ukelele version 2.2.7 on 2014-01-25 at 07:15 (GMT)-->
 <!--Created by Ukelele version 2.2.6 on 2013-12-31 at 20:32 (GMT)-->
 <keyboard group="0" id="12899" name="Icelandic Dvorak" maxout="1">
     <layouts>
@@ -83,7 +83,7 @@
             <key code="36" output="&#x000D;"/>
             <key code="37" action="n"/>
             <key code="38" output="h"/>
-            <key code="39" action="komma 1"/>
+            <key code="39" output="æ"/>
             <key code="40" output="t"/>
             <key code="41" output="s"/>
             <key code="42" output="&#x0027;"/>
@@ -435,7 +435,7 @@
             <key code="36" output="&#x000D;"/>
             <key code="37" output=""/>
             <key code="38" output="|"/>
-            <key code="39" output="^"/>
+            <key code="39" output="œ"/>
             <key code="40" output="°"/>
             <key code="41" output="ß"/>
             <key code="42" output="~"/>
@@ -552,7 +552,7 @@
             <key code="36" output="&#x000D;"/>
             <key code="37" output=""/>
             <key code="38" output="¸"/>
-            <key code="39" output="‘"/>
+            <key code="39" output="Œ"/>
             <key code="40" output="•"/>
             <key code="41" output="˙"/>
             <key code="42" output="·"/>
@@ -1054,9 +1054,6 @@
             <when state="umlaut" output="ï"/>
         </action>
         <action id="komma">
-            <when state="none" next="komma"/>
-        </action>
-        <action id="komma 1">
             <when state="none" next="komma"/>
         </action>
         <action id="n">
