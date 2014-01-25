@@ -1,13 +1,13 @@
 # Icelandic Dvorak Keyboard Layout for Mac OS X
 
-The goal of the project is to create a keyboard layout with the same keys and functionality as the Icelandic QWERTY keyboard, including dead keys. Therefore, it should be possible to re-arrange the buttons without loss of functionality. (Alt-E should result in a Euro-symbol for example.)
+The goal of the project is to create a keyboard layout with the same keys and functionality as the Icelandic QWERTY keyboard, including dead keys. Therefore, it should be possible to re-arrange the buttons without loss of functionality. (Combinations like Alt-E should therefore result in a Euro-symbol, as shown no the key cap.)
 
 Please note that this is a work in progress, is being developed on, and has only been tested on a built-in MacBook Pro 2013 keyboard. This layout might change in the future and if you have any requests or comments, please drop the author a line or file a ticket for the Github repository at https://github.com/stefanvignir/dvorak-is-mac.
 
 ![Overview of the keyboard in neutral state](https://raw.github.com/stefanvignir/dvorak-is-mac/master/dvorak-is.png)
 
 # Installation
-1. Copy the .icns and .keylayout files to either "/Library/Keyboard Layouts" (for the local user) or "~/Library/Keyboard Layouts" (for all users) to install the keyboard layout.
+1. Copy the .icns and .keylayout files to "/Library/Keyboard Layouts" to install the keyboard layout for all users.
 2. Open "Keyboard" under System Preferences and add "Icelandic Dvorak" as an Input Source.
 
 # License
