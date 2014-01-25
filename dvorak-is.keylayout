@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!-- Fri, 24 Feb 2006 Generated from KCHR: "Dvorak" -->
-<!--Last edited by Ukelele version 2.2.7 on 2014-01-25 at 07:17 (GMT)-->
+<!--Last edited by Ukelele version 2.2.7 on 2014-01-25 at 20:58 (GMT)-->
 <!--Created by Ukelele version 2.2.6 on 2013-12-31 at 20:32 (GMT)-->
 <keyboard group="0" id="12899" name="Icelandic Dvorak" maxout="1">
     <layouts>
@@ -429,7 +429,7 @@
             <key code="30" output="’"/>
             <key code="31" output="®"/>
             <key code="32" output="©"/>
-            <key code="33" output="\"/>
+            <key code="33" output="„"/>
             <key code="34" output="ç"/>
             <key code="35" output="…"/>
             <key code="36" output="&#x000D;"/>
@@ -546,7 +546,7 @@
             <key code="30" output="”"/>
             <key code="31" output=""/>
             <key code="32" output="˘"/>
-            <key code="33" output="≠"/>
+            <key code="33" output="“"/>
             <key code="34" output="Ç"/>
             <key code="35" output="ˇ"/>
             <key code="36" output="&#x000D;"/>
